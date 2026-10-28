@@ -27,7 +27,9 @@ A simple and clean Expense Tracker web app built with HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-(Coming soon)
+## Live Demo
+
+[Click here to view the live project](https://faiqarizwan95-maker.github.io/expense-tracker/)
 
 ## Author
 
